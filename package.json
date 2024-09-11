@@ -1,0 +1,22 @@
+{
+  "name": "the-out-post",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "runner"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulsamadmaan/theoutpost.git"
+  },
+  "author": "Samad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulsamadmaan/theoutpost/issues"
+  },
+  "homepage": "https://github.com/abdulsamadmaan/theoutpost#readme",
+  "dependencies": {
+    "cypress": "^13.14.2"
+  }
+}
